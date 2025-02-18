@@ -4,6 +4,7 @@ This repository contains a complete implementation of a small-scale transformer-
 
 ## Project Structure
 
+'''
 mini-gpt/
 │
 ├── dataset.py              # Dataset preparation and loading utilities
@@ -14,6 +15,7 @@ mini-gpt/
 ├── requirements.txt        # Dependencies
 ├── trainer.py              # Training loop and optimization
 └── utils.py                # Helper functions and utilities
+'''
 
 ## Installation
 
